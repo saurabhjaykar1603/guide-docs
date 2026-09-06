@@ -201,6 +201,18 @@ export default defineConfig({
               label: "CSS Transitions and Animations",
               link: "/css/css-transitions-animations",
             },
+            {
+              label: "CSS Pseudo-classes and Pseudo-elements",
+              link: "/css/css-pseudo-classes-elements",
+            },
+            {
+              label: "CSS Transforms",
+              link: "/css/css-transforms",
+            },
+            {
+              label: "CSS Accessibility",
+              link: "/css/css-accessibility",
+            },
           ],
         },
 
