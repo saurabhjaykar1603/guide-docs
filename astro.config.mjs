@@ -213,6 +213,10 @@ export default defineConfig({
               label: "CSS Accessibility",
               link: "/css/css-accessibility",
             },
+            {
+              label: "CSS Container Queries",
+              link: "/css/css-container-queries",
+            },
           ],
         },
 
