@@ -1314,6 +1314,10 @@ export default defineConfig({
               label: "Full Node.js Deployment to AWS",
               link: "/devops/aws_node_deployment",
             },
+            {
+              label: "Cloudflare Tunnel Guide",
+              link: "/devops/cloudflare-tunnel",
+            },
           ],
         },
         {
