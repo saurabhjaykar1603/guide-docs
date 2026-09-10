@@ -217,6 +217,10 @@ export default defineConfig({
               label: "CSS Container Queries",
               link: "/css/css-container-queries",
             },
+            {
+              label: "CSS Nesting",
+              link: "/css/css-nesting",
+            },
           ],
         },
 
