@@ -221,6 +221,10 @@ export default defineConfig({
               label: "CSS Nesting",
               link: "/css/css-nesting",
             },
+            {
+              label: "CSS Cascade Layers",
+              link: "/css/css-cascade-layers",
+            },
           ],
         },
 
