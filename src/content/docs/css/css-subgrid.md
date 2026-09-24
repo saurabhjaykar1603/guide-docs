@@ -49,7 +49,6 @@ First, define the track system on the outer grid. A nested component can span th
   grid-column: span 4;
   display: grid;
   grid-template-columns: subgrid;
-  grid-column: span 4;
 }
 
 .product-card > * {
